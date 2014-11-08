@@ -1,0 +1,605 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevCommom.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:DevCommom.Fakes.ShimAssemblyUtil">
+            <summary>DevCommom.AssemblyUtil 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimAssemblyUtil.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimAssemblyUtil.#ctor(DevCommom.AssemblyUtil)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimAssemblyUtil.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimAssemblyUtil.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.ConstructorString">
+            <summary>设置 AssemblyUtil.AssemblyUtil(String pAssemblyName) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.FinishWebRequestCommomIAsyncResult">
+            <summary>设置 AssemblyUtil.FinishWebRequestCommom(IAsyncResult result) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.FinishWebRequestIAsyncResult">
+            <summary>设置 AssemblyUtil.FinishWebRequest(IAsyncResult result) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.GetLastVersionAsync">
+            <summary>设置 AssemblyUtil.GetLastVersionAsync() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.GetVersionFromAssemblyInfoString">
+            <summary>设置 AssemblyUtil.GetVersionFromAssemblyInfo(String body) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.onGetVersionCompletedAddAssemblyUtilOnGetVersionCompleted">
+            <summary>设置 AssemblyUtil.add_onGetVersionCompleted(OnGetVersionCompleted value) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.onGetVersionCompletedRemoveAssemblyUtilOnGetVersionCompleted">
+            <summary>设置 AssemblyUtil.remove_onGetVersionCompleted(OnGetVersionCompleted value) 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimAssemblyUtil.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.AllInstances.FinishWebRequestCommomIAsyncResult">
+            <summary>设置 AssemblyUtil.FinishWebRequestCommom(IAsyncResult result) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.AllInstances.FinishWebRequestIAsyncResult">
+            <summary>设置 AssemblyUtil.FinishWebRequest(IAsyncResult result) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.AllInstances.GetLastVersionAsync">
+            <summary>设置 AssemblyUtil.GetLastVersionAsync() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.AllInstances.GetVersionFromAssemblyInfoString">
+            <summary>设置 AssemblyUtil.GetVersionFromAssemblyInfo(String body) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.AllInstances.onGetVersionCompletedAddAssemblyUtilOnGetVersionCompleted">
+            <summary>设置 AssemblyUtil.add_onGetVersionCompleted(OnGetVersionCompleted value) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimAssemblyUtil.AllInstances.onGetVersionCompletedRemoveAssemblyUtilOnGetVersionCompleted">
+            <summary>设置 AssemblyUtil.remove_onGetVersionCompleted(OnGetVersionCompleted value) 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimBarrierManager">
+            <summary>DevCommom.BarrierManager 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimBarrierManager.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimBarrierManager.#ctor(DevCommom.BarrierManager)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimBarrierManager.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimBarrierManager.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimBarrierManager.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimBarrierManager.Cast">
+            <summary>设置 BarrierManager.Cast() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimBarrierManager.Constructor">
+            <summary>设置 BarrierManager.BarrierManager() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimBarrierManager.IsReady">
+            <summary>设置 BarrierManager.IsReady() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimBarrierManager.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimBarrierManager.AllInstances.Cast">
+            <summary>设置 BarrierManager.Cast() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimBarrierManager.AllInstances.IsReady">
+            <summary>设置 BarrierManager.IsReady() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimDevHelper">
+            <summary>DevCommom.DevHelper 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimDevHelper.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimDevHelper.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimDevHelper.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.CountEnemyInPositionRangeVector3Single">
+            <summary>设置 DevHelper.CountEnemyInPositionRange(Vector3 position, Single range) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.GetAllyList">
+            <summary>设置 DevHelper.GetAllyList() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.GetDistanceSqrObj_AI_BaseObj_AI_Base">
+            <summary>设置 DevHelper.GetDistanceSqr(Obj_AI_Base source, Obj_AI_Base target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.GetEnemyList">
+            <summary>设置 DevHelper.GetEnemyList() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.GetHealthPercObj_AI_Base">
+            <summary>设置 DevHelper.GetHealthPerc(Obj_AI_Base unit) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.GetManaPercObj_AI_Base">
+            <summary>设置 DevHelper.GetManaPerc(Obj_AI_Base unit) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.GetNearestAllyObj_AI_Base">
+            <summary>设置 DevHelper.GetNearestAlly(Obj_AI_Base unit) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.GetNearestEnemyFromUnitObj_AI_Base">
+            <summary>设置 DevHelper.GetNearestEnemyFromUnit(Obj_AI_Base unit) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.GetNearestEnemyObj_AI_Base">
+            <summary>设置 DevHelper.GetNearestEnemy(Obj_AI_Base unit) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.IsFacingObj_AI_BaseObj_AI_Base">
+            <summary>设置 DevHelper.IsFacing(Obj_AI_Base source, Obj_AI_Base target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.IsKillableObj_AI_HeroObj_AI_BaseIEnumerableOfSpellSlot">
+            <summary>设置 DevHelper.IsKillable(Obj_AI_Hero source, Obj_AI_Base target, IEnumerable`1&lt;SpellSlot&gt; spellCombo) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.IsUnderEnemyTurretObj_AI_Base">
+            <summary>设置 DevHelper.IsUnderEnemyTurret(Obj_AI_Base unit) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.PingVector3">
+            <summary>设置 DevHelper.Ping(Vector3 pos) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper.SendMovePacketObj_AI_BaseVector2">
+            <summary>设置 DevHelper.SendMovePacket(Obj_AI_Base v, Vector2 point) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper._GetAllyListb__4Obj_AI_Hero">
+            <summary>设置 DevHelper.&lt;GetAllyList&gt;b__4(Obj_AI_Hero x) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper._GetAllyListb__5Obj_AI_Hero">
+            <summary>设置 DevHelper.&lt;GetAllyList&gt;b__5(Obj_AI_Hero x) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper._GetEnemyListb__0Obj_AI_Hero">
+            <summary>设置 DevHelper.&lt;GetEnemyList&gt;b__0(Obj_AI_Hero x) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper._GetEnemyListb__1Obj_AI_Hero">
+            <summary>设置 DevHelper.&lt;GetEnemyList&gt;b__1(Obj_AI_Hero x) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimDevHelper._GetNearestEnemyFromUnitb__10Obj_AI_Hero">
+            <summary>设置 DevHelper.&lt;GetNearestEnemyFromUnit&gt;b__10(Obj_AI_Hero x) 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimIgniteManager">
+            <summary>DevCommom.IgniteManager 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimIgniteManager.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimIgniteManager.#ctor(DevCommom.IgniteManager)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimIgniteManager.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimIgniteManager.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimIgniteManager.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimIgniteManager.CanKillObj_AI_Hero">
+            <summary>设置 IgniteManager.CanKill(Obj_AI_Hero enemy) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimIgniteManager.CastObj_AI_Hero">
+            <summary>设置 IgniteManager.Cast(Obj_AI_Hero enemy) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimIgniteManager.Constructor">
+            <summary>设置 IgniteManager.IgniteManager() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimIgniteManager.IsReady">
+            <summary>设置 IgniteManager.IsReady() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimIgniteManager.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimIgniteManager.AllInstances.CanKillObj_AI_Hero">
+            <summary>设置 IgniteManager.CanKill(Obj_AI_Hero enemy) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimIgniteManager.AllInstances.CastObj_AI_Hero">
+            <summary>设置 IgniteManager.Cast(Obj_AI_Hero enemy) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimIgniteManager.AllInstances.IsReady">
+            <summary>设置 IgniteManager.IsReady() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimItemManager">
+            <summary>DevCommom.ItemManager 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimItemManager.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimItemManager.#ctor(DevCommom.ItemManager)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimItemManager.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimItemManager.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimItemManager.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimItemManager.CastDFGObj_AI_Hero">
+            <summary>设置 ItemManager.CastDFG(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimItemManager.Constructor">
+            <summary>设置 ItemManager.ItemManager() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimItemManager.IsReadyDFG">
+            <summary>设置 ItemManager.IsReadyDFG() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimItemManager.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimItemManager.AllInstances.CastDFGObj_AI_Hero">
+            <summary>设置 ItemManager.CastDFG(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimItemManager.AllInstances.IsReadyDFG">
+            <summary>设置 ItemManager.IsReadyDFG() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimLevelUpManager">
+            <summary>DevCommom.LevelUpManager 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimLevelUpManager.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimLevelUpManager.#ctor(DevCommom.LevelUpManager)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimLevelUpManager.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimLevelUpManager.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimLevelUpManager.AddStringInt32Array">
+            <summary>设置 LevelUpManager.Add(String spellPriorityDesc, Int32[] spellPriority) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimLevelUpManager.AddToMenuMenuRef">
+            <summary>设置 LevelUpManager.AddToMenu(Menu&amp; menu) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimLevelUpManager.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimLevelUpManager.Constructor">
+            <summary>设置 LevelUpManager.LevelUpManager() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimLevelUpManager.Update">
+            <summary>设置 LevelUpManager.Update() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimLevelUpManager.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimLevelUpManager.AllInstances.AddStringInt32Array">
+            <summary>设置 LevelUpManager.Add(String spellPriorityDesc, Int32[] spellPriority) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimLevelUpManager.AllInstances.AddToMenuMenuRef">
+            <summary>设置 LevelUpManager.AddToMenu(Menu&amp; menu) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimLevelUpManager.AllInstances.Update">
+            <summary>设置 LevelUpManager.Update() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimOnGetVersionCompletedArgs">
+            <summary>DevCommom.OnGetVersionCompletedArgs 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimOnGetVersionCompletedArgs.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimOnGetVersionCompletedArgs.#ctor(DevCommom.OnGetVersionCompletedArgs)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimOnGetVersionCompletedArgs.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimOnGetVersionCompletedArgs.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimOnGetVersionCompletedArgs.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimOnGetVersionCompletedArgs.Constructor">
+            <summary>设置 OnGetVersionCompletedArgs.OnGetVersionCompletedArgs() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimOnGetVersionCompletedArgs.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimSkinManager">
+            <summary>DevCommom.SkinManager 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimSkinManager.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimSkinManager.#ctor(DevCommom.SkinManager)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimSkinManager.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimSkinManager.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.AddString">
+            <summary>设置 SkinManager.Add(String skin) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.AddToMenuMenuRef">
+            <summary>设置 SkinManager.AddToMenu(Menu&amp; menu) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.Constructor">
+            <summary>设置 SkinManager.SkinManager() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.GenerateSkinPacketInt32">
+            <summary>设置 SkinManager.GenerateSkinPacket(Int32 skinNumber) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.Update">
+            <summary>设置 SkinManager.Update() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimSkinManager.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.AllInstances.AddString">
+            <summary>设置 SkinManager.Add(String skin) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.AllInstances.AddToMenuMenuRef">
+            <summary>设置 SkinManager.AddToMenu(Menu&amp; menu) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSkinManager.AllInstances.Update">
+            <summary>设置 SkinManager.Update() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimSummonerSpellManager">
+            <summary>DevCommom.SummonerSpellManager 的填充码类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimSummonerSpellManager.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimSummonerSpellManager.#ctor(DevCommom.SummonerSpellManager)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimSummonerSpellManager.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.ShimSummonerSpellManager.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.CanKillIgniteObj_AI_Hero">
+            <summary>设置 SummonerSpellManager.CanKillIgnite(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.CastBarrier">
+            <summary>设置 SummonerSpellManager.CastBarrier() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.CastExhaustObj_AI_Hero">
+            <summary>设置 SummonerSpellManager.CastExhaust(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.CastFlashVector3">
+            <summary>设置 SummonerSpellManager.CastFlash(Vector3 position) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.CastHeal">
+            <summary>设置 SummonerSpellManager.CastHeal() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.CastIgniteObj_AI_Hero">
+            <summary>设置 SummonerSpellManager.CastIgnite(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.Constructor">
+            <summary>设置 SummonerSpellManager.SummonerSpellManager() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.GetIgniteDamageObj_AI_Hero">
+            <summary>设置 SummonerSpellManager.GetIgniteDamage(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.IsReadyBarrier">
+            <summary>设置 SummonerSpellManager.IsReadyBarrier() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.IsReadyExhaust">
+            <summary>设置 SummonerSpellManager.IsReadyExhaust() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.IsReadyFlash">
+            <summary>设置 SummonerSpellManager.IsReadyFlash() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.IsReadyHeal">
+            <summary>设置 SummonerSpellManager.IsReadyHeal() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.IsReadyIgnite">
+            <summary>设置 SummonerSpellManager.IsReadyIgnite() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.CanKillIgniteObj_AI_Hero">
+            <summary>设置 SummonerSpellManager.CanKillIgnite(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.CastBarrier">
+            <summary>设置 SummonerSpellManager.CastBarrier() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.CastExhaustObj_AI_Hero">
+            <summary>设置 SummonerSpellManager.CastExhaust(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.CastFlashVector3">
+            <summary>设置 SummonerSpellManager.CastFlash(Vector3 position) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.CastHeal">
+            <summary>设置 SummonerSpellManager.CastHeal() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.CastIgniteObj_AI_Hero">
+            <summary>设置 SummonerSpellManager.CastIgnite(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.GetIgniteDamageObj_AI_Hero">
+            <summary>设置 SummonerSpellManager.GetIgniteDamage(Obj_AI_Hero target) 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.IsReadyBarrier">
+            <summary>设置 SummonerSpellManager.IsReadyBarrier() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.IsReadyExhaust">
+            <summary>设置 SummonerSpellManager.IsReadyExhaust() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.IsReadyFlash">
+            <summary>设置 SummonerSpellManager.IsReadyFlash() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.IsReadyHeal">
+            <summary>设置 SummonerSpellManager.IsReadyHeal() 的 填充码</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.ShimSummonerSpellManager.AllInstances.IsReadyIgnite">
+            <summary>设置 SummonerSpellManager.IsReadyIgnite() 的 填充码</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.StubAssemblyUtil">
+            <summary>DevCommom.AssemblyUtil 的存根类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubAssemblyUtil.#ctor(System.String)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubAssemblyUtil.InitializeStub">
+            <summary>初始化 type StubAssemblyUtil 的新实例</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubAssemblyUtil.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubAssemblyUtil.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubAssemblyUtil.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.StubBarrierManager">
+            <summary>DevCommom.BarrierManager 的存根类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubBarrierManager.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubBarrierManager.InitializeStub">
+            <summary>初始化 type StubBarrierManager 的新实例</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubBarrierManager.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubBarrierManager.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubBarrierManager.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.StubIgniteManager">
+            <summary>DevCommom.IgniteManager 的存根类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubIgniteManager.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubIgniteManager.InitializeStub">
+            <summary>初始化 type StubIgniteManager 的新实例</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubIgniteManager.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubIgniteManager.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubIgniteManager.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.StubItemManager">
+            <summary>DevCommom.ItemManager 的存根类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubItemManager.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubItemManager.InitializeStub">
+            <summary>初始化 type StubItemManager 的新实例</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubItemManager.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubItemManager.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubItemManager.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.StubLevelUpManager">
+            <summary>DevCommom.LevelUpManager 的存根类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubLevelUpManager.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubLevelUpManager.InitializeStub">
+            <summary>初始化 type StubLevelUpManager 的新实例</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubLevelUpManager.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubLevelUpManager.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubLevelUpManager.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.StubOnGetVersionCompletedArgs">
+            <summary>DevCommom.OnGetVersionCompletedArgs 的存根类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubOnGetVersionCompletedArgs.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubOnGetVersionCompletedArgs.InitializeStub">
+            <summary>初始化 type StubOnGetVersionCompletedArgs 的新实例</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubOnGetVersionCompletedArgs.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubOnGetVersionCompletedArgs.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubOnGetVersionCompletedArgs.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.StubSkinManager">
+            <summary>DevCommom.SkinManager 的存根类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubSkinManager.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubSkinManager.InitializeStub">
+            <summary>初始化 type StubSkinManager 的新实例</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubSkinManager.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubSkinManager.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubSkinManager.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:DevCommom.Fakes.StubSummonerSpellManager">
+            <summary>DevCommom.SummonerSpellManager 的存根类型</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubSummonerSpellManager.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:DevCommom.Fakes.StubSummonerSpellManager.InitializeStub">
+            <summary>初始化 type StubSummonerSpellManager 的新实例</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubSummonerSpellManager.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubSummonerSpellManager.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:DevCommom.Fakes.StubSummonerSpellManager.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,52 @@
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\DevCassio.exe.config
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\DevCassio.csprojFakesResolveAssemblyReference.cache
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\DevCassio.exe
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\DevCassio.pdb
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\DevCommom.Fakes.fakesconfig
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\DevCommom.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\LeagueSharp.Common.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\LeagueSharp.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\SharpDX.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\LeagueSharp.xml
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\bin\Release\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\DevCommom.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\DevCommom.Fakes.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\DevCommom.Fakes.fakesconfig
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\DevCommom.Fakes.pdb
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\DevCommom.Fakes.xml
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\LeagueSharp.Common.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\LeagueSharp.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\LeagueSharp.xml
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\SharpDX.Direct3D9.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\SharpDX.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\f.ah
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\f.ch
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\f.cs
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\f.csproj
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\f.fakes
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\f.fakesconfig
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\o\DevCommom.Fakes.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\o\DevCommom.Fakes.pdb
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\o\f.csproj.FileListAbsolute.txt
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\dc\o\f.csprojResolveAssemblyReference.cache
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\Fakes\fakes.args
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\DevCassio.csprojResolveAssemblyReference.cache
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\DevCassio.exe
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\obj\Debug\DevCassio.pdb
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\DevCassio.exe.config
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\obj\Debug\DevCassio.exe
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\obj\Debug\DevCassio.pdb
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\DevCassio.exe
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\DevCassio.pdb
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\DevCommom.dll
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\LeagueSharp.Common.dll
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\LeagueSharp.dll
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\SharpDX.dll
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\LeagueSharp.xml
+C:\Users\kuye\Documents\GitHub\chineseAssemblies\DevCassio\bin\Release\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll

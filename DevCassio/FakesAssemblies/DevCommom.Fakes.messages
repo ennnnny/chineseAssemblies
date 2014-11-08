@@ -1,0 +1,7 @@
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\Fakes\DevCommom.fakes : warning : 无法为 DevCommom.DevHelper 生成存根: 类型已密封。
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\Fakes\DevCommom.fakes : warning : 无法为 DevCommom.AssemblyUtil+OnGetVersionCompleted 生成填充码: 类型是一个委托。
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\Fakes\DevCommom.fakes : warning : 无法为 DevCommom.DevHelper+<>c__DisplayClass13 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\Fakes\DevCommom.fakes : warning : 无法为 DevCommom.DevHelper+<>c__DisplayClass19 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\Fakes\DevCommom.fakes : warning : 无法为 DevCommom.DevHelper+<>c__DisplayClass1c 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\Fakes\DevCommom.fakes : warning : 无法为 DevCommom.DevHelper+<>c__DisplayClassa 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\InjectionDev\DevCassio\Fakes\DevCommom.fakes : warning : 无法为 DevCommom.DevHelper+<>c__DisplayClasse 生成填充码: 类型不受支持，因为存在内部限制。
