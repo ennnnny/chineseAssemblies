@@ -11,6 +11,5 @@ chineseAssemblies
 > 眼位（包括飾品眼）及陷阱顯示
 
 ### DevCassio
-> 蛇女的腳本
-> （詳情介紹請去論壇查看）
+> 蛇女的腳本（詳情介紹請去論壇查看）
 > 該作者git：https://github.com/InjectionDev/LeagueSharp
