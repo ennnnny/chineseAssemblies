@@ -13,3 +13,8 @@ chineseAssemblies
 ### DevCassio
 > 蛇女的腳本（詳情介紹請去論壇查看）
 > 該作者git：https://github.com/InjectionDev/LeagueSharp
+
+### EasyEzreal 
+> 伊澤的獨立腳本
+> 作者git：https://github.com/ikkeflikkeri/LeagueSharp 
+> （其中目標選擇和Orbwalker沒有翻，因為是引用library的）
