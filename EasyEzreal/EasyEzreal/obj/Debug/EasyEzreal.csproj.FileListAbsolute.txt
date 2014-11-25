@@ -1,0 +1,11 @@
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\bin\Release\EasyEzreal.exe.config
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\bin\Release\EasyEzreal.exe
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\bin\Release\EasyEzreal.pdb
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\bin\Release\LeagueSharp.Common.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\bin\Release\LeagueSharp.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\bin\Release\SharpDX.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\bin\Release\LeagueSharp.xml
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\obj\Debug\EasyEzreal.csprojResolveAssemblyReference.cache
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\obj\Debug\EasyEzreal.exe
+C:\Users\kuye\Documents\Visual Studio 2013\Projects\EasyEzreal\EasyEzreal\obj\Debug\EasyEzreal.pdb
